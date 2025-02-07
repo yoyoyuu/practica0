@@ -69,6 +69,8 @@ Texto en <u>subrayado</u>
 
 <!--CODIGO-->
 
+`hola aaaaa`
+
 ```txt
 Codigo pro
 ```
